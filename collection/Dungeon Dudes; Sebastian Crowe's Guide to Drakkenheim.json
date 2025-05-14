@@ -1,5 +1,4 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
@@ -20,7 +19,7 @@
 		"status": "wip",
 		"dateAdded": 1700993345,
 		"dateLastModified": 1729630006,
-		"_dateLastModifiedHash": "2ab745679e",
+		"_dateLastModifiedHash": "2ab745679e",D
 		"edition": "classic"
 	},
 	"class": [
@@ -110,97 +109,97 @@
 						],
 						[
 							4,
-							2,
+							3,
 							"3rd",
 							3
 						],
 						[
 							4,
-							2,
+							3,
 							"3rd",
 							4
 						],
 						[
 							4,
-							2,
+							3,
 							"4th",
 							4
 						],
 						[
 							4,
-							2,
+							3,
 							"4th",
 							5
 						],
 						[
 							4,
-							2,
+							4,
 							"5th",
 							5
 						],
 						[
 							5,
-							2,
+							4,
 							"5th",
 							6
 						],
 						[
 							5,
-							3,
+							4,
 							"5th",
 							6
 						],
 						[
 							5,
-							3,
+							4,
 							"5th",
 							7
 						],
 						[
 							5,
-							3,
+							5,
 							"5th",
 							7
 						],
 						[
 							5,
-							3,
+							5,
 							"5th",
 							8
 						],
 						[
 							5,
-							3,
+							5,
 							"5th",
 							8
 						],
 						[
 							5,
-							3,
+							5,
 							"5th",
 							9
 						],
 						[
 							5,
-							4,
+							6,
 							"5th",
 							9
 						],
 						[
 							5,
-							4,
+							6,
 							"5th",
 							10
 						],
 						[
 							5,
-							4,
+							6,
 							"5th",
 							10
 						],
 						[
 							5,
-							4,
+							6,
 							"5th",
 							11
 						]
@@ -4962,7 +4961,7 @@
 			"subclassSource": "SCGtD",
 			"level": 11,
 			"entries": [
-				"When you attack a creature with the benefits of your Vantage Point feature, you deal an additional 2d6 damage to the target, and score a critical hit on a d20 roll of 19\u201320."
+				"When you attack a creature with the benefits of your Vantage Point feature, you deal an additional 2d6 damage to the target, and score a critical hit on a d20 roll of 19–20."
 			]
 		},
 		{
@@ -5315,7 +5314,7 @@
 						"Your eyes become pools of inky black with small galaxies floating within them. To look into them is as if floating through the cosmos lost in the void of space.",
 						"Your touch becomes cold as ice and your skin becomes pale. Some might think you undead or sickly. You appear as if you had died in the cold of space.",
 						"Your voice has a slight echoing nature to it. As if there is more than one entity speaking through you. Your own voice is most prominent but when listening carefully one can make out a chorus of celestial voices speaking through you.",
-						"You give off a faint smell of ozone \u2014 acrid and sulfuric, as if lightning had just struck nearby. It seems unnatural and otherworldly.",
+						"You give off a faint smell of ozone — acrid and sulfuric, as if lightning had just struck nearby. It seems unnatural and otherworldly.",
 						"You develop a third eye in the middle of your forehead that is unblinking, and seems to pierce into people's minds as it stares upon them.",
 						"Your veins glow with a soft radiant light, giving you the appearance of a walking constellation of stars and cosmic energy."
 					]
@@ -8965,7 +8964,7 @@
 							"type": "entries",
 							"name": "Dexterity",
 							"entries": [
-								"The target has advantage on Dexterity attack rolls, ability checks, and saving throws. The target can choose to gain a Contamination Level. If it does, its attacks with ranged and finesse weapons score a critical hit on an 18\u201320 for the spell's duration."
+								"The target has advantage on Dexterity attack rolls, ability checks, and saving throws. The target can choose to gain a Contamination Level. If it does, its attacks with ranged and finesse weapons score a critical hit on an 18–20 for the spell's duration."
 							]
 						},
 						{
@@ -9948,7 +9947,7 @@
 								"A magic-adjacent term broadly used on the continent to describe many professions and forms.",
 								"The term is found throughout the continent, and the vast array of possible fields of study is ever expanding.",
 								"The Amethyst Academy has departments of apothecaries managing their labs and research centers.",
-								"Within their many schools and strongholds, they teach advanced sciences and using magic to better understand the body and mind, and the various modern medical practices that can be combined with magic to save lives \u2014 or end them.",
+								"Within their many schools and strongholds, they teach advanced sciences and using magic to better understand the body and mind, and the various modern medical practices that can be combined with magic to save lives — or end them.",
 								"Not all apothecaries are mageborn. The broad term has been used to describe several practices that combine herbal ingredients, chemicals, and poisons with biological study to induce outcomes similar to the effects of evocation or necromantic magic.",
 								"Pathogenists working in distant labs perform studies to create new powerful strains of disease and poison. Chemists find ways to surpass the potency of mageborn spellcasting with the right dose of chemicals for their explosive and destructive results.",
 								"Other Mutagenists working with the mutating effects of delirium seek to control and isolate the elements of mutation and apply them in a more controlled manner.",
